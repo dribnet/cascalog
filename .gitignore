@@ -19,7 +19,6 @@ syntax: glob
 .cake/
 .lein-failures
 .lein-deps-sum
-doc
 *.ipr
 *.iws
 *.iml
