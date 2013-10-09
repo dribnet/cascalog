@@ -13,14 +13,14 @@
                  [cascalog/cascalog-more-taps ~version]
                  [cascalog/cascalog-math ~version]
                  [cascalog/midje-cascalog ~version]]
-  :plugins [[lein-sub "0.2.4"]
-            [codox "0.6.4"]]
+  :plugins [[lein-sub "0.3.0"]
+            [codox "0.6.6"]]
   :sub ["cascalog-core"
         "cascalog-checkpoint"
         "cascalog-more-taps"
         "cascalog-math"
         "midje-cascalog"]
-  :codox {:src-dir-uri "http://github.com/nathanmarz/cascalog/blob/master"
+  :codox {:src-dir-uri "http://github.com/dribnet/cascalog/blob/master"
           :src-linenum-anchor-prefix "L"
           :sources ["cascalog-core/src"
                     "cascalog-checkpoint/src"
