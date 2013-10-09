@@ -20,7 +20,7 @@
         "cascalog-more-taps"
         "cascalog-math"
         "midje-cascalog"]
-  :codox {:src-dir-uri "http://github.com/dribnet/cascalog/blob/master"
+  :codox {:src-dir-uri "http://github.com/dribnet/cascalog/blob/develop"
           :src-linenum-anchor-prefix "L"
           :sources ["cascalog-core/src"
                     "cascalog-checkpoint/src"
