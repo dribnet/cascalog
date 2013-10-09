@@ -1,5 +1,9 @@
 # Cascalog
 
+----
+[Cascalog core 2.0 documentation](http://dribnet.github.io/cascalog/cascalog-core/doc/index.html) (and the other [subprojects too](http://dribnet.github.io/cascalog/)).
+----
+
 [![Build Status](https://secure.travis-ci.org/nathanmarz/cascalog.png?branch=develop)](http://travis-ci.org/nathanmarz/cascalog)
 
 [Cascalog](http://cascalog.org/) is a fully-featured data processing and querying library for Clojure or Java. The main use cases for Cascalog are processing "Big Data" on top of Hadoop or doing analysis on your local computer. Cascalog is a replacement for tools like Pig, Hive, and Cascading and operates at a significantly higher level of abstraction than those tools.
